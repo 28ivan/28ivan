@@ -41,4 +41,4 @@ Estudiante de último curso del Grado en Ingeniería Informática de Gestión y 
 
 - Correo electrónico: [ivanherrera2882@gmail.com](mailto:ivanherrera2882@gmail.com)
 - Perfil de GitHub: [github.com/28ivan](https://github.com/28ivan)
-- LinkedIn: [linkedin.com/in/ivanherrera28](www.linkedin.com/in/ivanherrera28) 
+- LinkedIn: [linkedin.com/in/ivanherrera28](https://www.linkedin.com/in/ivanherrera28)
